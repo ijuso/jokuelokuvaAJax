@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(41, 41, 41);
+  align-items: center;
+  justify-content: center;
+}
+.otsake{
+  color:white;
+  text-align: center;
+  font-size: 50px;
+  
+}
+.hakukentta{
+  height: 200px;
+  background-color: black;
+  overflow: hidden;
+  width: 1921px;
+  margin-left: -8px;
+  margin-top: -8px;
+}
+.inputlaatikko{
+  padding-left: 810px;
+}
+input{
+  width: 25%;
+  text-align: center;
+  height: 30px;
+  font-size: 20px;
+}
+.elokuva{
+  flex-wrap: wrap;
+  padding:20px;
+  color: white;
+}
+
+main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
